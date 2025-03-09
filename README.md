@@ -84,7 +84,8 @@ Watch the video here: [YouTube Video Link](https://youtu.be/your_video_link)
    Launch the Jupyter Notebook:
 
    ```bash
-   jupyter notebook notebook.ipynb
+   Gift_Ahmed_Agentic_Graph_Querying_with_LangChain_&_cuGraph_AQL_&_GPU_Accelerated_Analytics (1).ipynb
+
    ```
 
 ---
