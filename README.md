@@ -59,7 +59,7 @@ Watch the video here: [YouTube Video Link](https://youtu.be/your_video_link)
 1. **Clone the Repository:**
 
    ```bash
-   https://github.com/giftahmed/Next-Gen-Agentic-App-with-GraphRAG-NVIDIA-cuGraph.git
+   https://github.com/giftahmed/Logistics-Performance-Index-LPI-Agentic-Application.git
    ```
 
 2. **Set Up a Virtual Environment (Optional but recommended):**
