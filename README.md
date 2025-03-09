@@ -37,7 +37,7 @@ The YouTube video demonstrates:
 - **Real-Time Demo:**  
   A live demo showing how the agentic app processes natural language queries and retrieves graph insights and visualizations.
 
-Watch the video here: [YouTube Video Link](https://youtu.be/your_video_link)
+Watch the video here: [YouTube Video Link](https://youtu.be/d4u70pcgnbA)
 
 ---
 
